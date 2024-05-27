@@ -1,0 +1,35 @@
+#abcont{
+    background-color: black;
+    color: white;
+}
+#res1{
+    padding: 70px;
+    min-width: 50%;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(129,40,138,1) 75%, rgba(255,0,168,1) 100%);
+    color: white;
+    height: auto;
+    border: 1px solid red;
+    
+}
+#res2{
+    min-width: 50%;
+    background-color:cornflowerblue;
+}
+
+@media screen and (max-width:500px) {
+    #res1{
+        min-width: 100%;
+    }
+}
+.oranges{
+color: orangered;
+padding-top: 30px;
+}
+
+#para{
+    padding-top: 20px;
+    color: aqua;
+}
+#h3{
+    color: aqua;}
